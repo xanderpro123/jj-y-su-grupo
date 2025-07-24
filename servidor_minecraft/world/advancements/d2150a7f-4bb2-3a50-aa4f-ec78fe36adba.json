@@ -34,6 +34,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-24 21:42:51 +0000",
+      "minecraft:spider": "2025-07-24 21:54:06 +0000",
       "minecraft:slime": "2025-07-24 21:23:34 +0000",
       "minecraft:zombie": "2025-07-24 21:29:36 +0000"
     },
@@ -990,6 +991,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-07-24 21:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-07-24 21:55:58 +0000"
     },
     "done": true
   },

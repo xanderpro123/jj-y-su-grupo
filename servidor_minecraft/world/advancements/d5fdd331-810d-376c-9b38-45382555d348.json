@@ -383,6 +383,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-07-24 21:28:29 +0000",
+      "baked_potato": "2025-07-24 21:49:55 +0000",
       "apple": "2025-07-24 21:35:33 +0000"
     },
     "done": false
@@ -420,6 +421,12 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-07-24 21:30:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-07-24 21:52:37 +0000"
     },
     "done": true
   },
@@ -594,6 +601,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-07-24 21:37:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-07-24 21:49:34 +0000"
     },
     "done": true
   },

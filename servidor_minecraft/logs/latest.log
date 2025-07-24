@@ -1035,3 +1035,169 @@
 [24Jul2025 21:53:46.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JoSs_StAloS moved too quickly! 0.0,-23.19179794373673,0.0
 [24Jul2025 21:53:47.153] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-6, y=83, z=234}
 [24Jul2025 21:53:47.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoSs_StAloS fell out of the world
+[24Jul2025 21:53:50.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zanderga123: Set spawn point to -453, 22, 228 [0.0] in minecraft:overworld for 4 players]
+[24Jul2025 21:53:55.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zanderga123: Teleported 4 entities to zanderga123]
+[24Jul2025 21:54:04.584] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=effect,ID=poison,target=hitEntity,amplifier=2,duration=5;type=particle,ID=splashpotion,potion=poison)@luck=2
+[24Jul2025 21:54:05.131] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=nothing@luck=0@chance=24
+[24Jul2025 21:54:05.681] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=entity,ID=tnt,pos=#pExactPos,posOffsetY=1.5,NBTTag=(Fuse=40b,Motion=#motionFromDirection(#pYaw,#pPitch,0.8))@luck=2
+[24Jul2025 21:54:06.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redox_Lm was slain by JoSs_StAloS
+[24Jul2025 21:54:06.280] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=nothing@luck=0@chance=24
+[24Jul2025 21:54:06.881] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=nothing@luck=0@chance=24
+[24Jul2025 21:54:11.931] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=nothing@luck=0@chance=24
+[24Jul2025 21:54:12.781] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=entity,ID=egg,pos=#pExactPos,posOffsetY=1.5,NBTTag=(Motion=#motionFromDirection(#pYaw+#rand(-10,10),#pPitch+#rand(-10,10), 1.0)),amount=25,delay=#rand(0.0,2.0)@luck=2
+[24Jul2025 21:54:14.381] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=nothing@luck=0@chance=24
+[24Jul2025 21:54:15.131] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=nothing@luck=0@chance=24
+[24Jul2025 21:54:16.031] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=nothing@luck=0@chance=24
+[24Jul2025 21:54:17.081] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=nothing@luck=0@chance=24
+[24Jul2025 21:54:17.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zanderga123 was slain by JoSs_StAloS
+[24Jul2025 21:54:17.583] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=entity,ID=lucky:lucky_projectile,pos=#pExactPos,posOffsetY=1.5,NBTTag=(Motion=#motionFromDirection(#pYaw+#rand(-10,10),#pPitch+#rand(-10,10),1.0),item=(id=blaze_powder,Count=1),impact=["type=effect,ID=special_fire,target=hitEntity,duration=5"],damage=0.0),amount=50,delay=#rand(0.0,2.0)@luck=2
+[24Jul2025 21:54:17.849] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:17.902] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:17.903] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:18.149] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:18.149] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:18.249] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:18.249] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:18.250] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:18.300] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:18.301] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:18.350] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:18.351] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:18.400] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:18.400] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:18.450] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:18.499] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:18.499] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:18.499] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:18.499] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:18.548] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:18.549] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:18.549] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:18.549] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:18.598] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:18.599] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:18.599] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:18.700] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:18.749] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:18.848] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:18.849] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:18.899] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:18.899] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:18.900] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:18.998] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:18.999] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:18.999] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:19.099] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:19.199] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:19.348] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:19.349] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:19.401] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:19.449] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:19.499] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:19.500] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:19.500] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:19.748] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:19.749] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:19.749] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:19.909] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:33.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redox_Lm was doomed to fall
+[24Jul2025 21:54:41.082] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=entity,ID=lucky:lucky_projectile,pos=#pExactPos,posOffsetY=1.5,NBTTag=(Motion=#motionFromDirection(#pYaw+#rand(-10,10),#pPitch+#rand(-10,10),1.0),item=(id=blaze_powder,Count=1),impact=["type=effect,ID=special_fire,target=hitEntity,duration=5"],damage=0.0),amount=50,delay=#rand(0.0,2.0)@luck=2
+[24Jul2025 21:54:41.349] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:41.349] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:41.350] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:41.402] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:41.499] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:41.549] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:41.549] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:41.600] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:41.600] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:41.649] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:41.651] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:41.651] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:41.749] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:41.750] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:41.801] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:41.801] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:41.900] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:41.901] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:41.933] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=nothing@luck=0@chance=24
+[24Jul2025 21:54:41.949] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:42.001] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:42.149] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:42.202] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:42.249] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:42.249] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:42.250] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:42.352] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:42.353] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:42.455] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:42.456] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:42.498] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:42.600] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:42.652] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:42.653] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:42.699] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:42.750] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:42.750] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:42.750] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:42.800] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:42.800] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:42.800] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:42.949] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:42.950] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:42.999] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:43.103] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:43.103] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:43.103] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:43.148] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:43.149] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:43.149] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:43.149] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=effect,ID=special_fire,target=hitEntity,duration=5
+[24Jul2025 21:54:46.382] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=nothing@luck=0@chance=24
+[24Jul2025 21:54:46.833] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=effect,ID=special_fire,range=4,excludePlayer=true,duration=#rand(5,10);type=particle,ID=flame,pos=#pExactPos,size=(1.0,0.3,1.0),particleAmount=2000)@luck=2
+[24Jul2025 21:54:47.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cast_23x was slain by JoSs_StAloS
+[24Jul2025 21:54:47.334] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=nothing@luck=0@chance=24
+[24Jul2025 21:55:26.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoSs_StAloS tried to swim in lava
+[24Jul2025 21:55:47.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoSs_StAloS tried to swim in lava
+[24Jul2025 21:55:58.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoSs_StAloS has made the advancement [Hot Stuff]
+[24Jul2025 21:56:02.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zanderga123 hit the ground too hard
+[24Jul2025 21:56:07.468] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=entity,ID=arrow,pos=#bowPos,NBTTag=(Motion=#bowMotion,Color=-1)@chance=20
+[24Jul2025 21:56:09.471] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=entity,ID=arrow,pos=#bowPos,NBTTag=(Motion=#bowMotion(1.0,5.0),Color=-1),amount=20@luck=2
+[24Jul2025 21:56:17.670] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=entity,ID=arrow,pos=#bowPos,NBTTag=(Motion=#bowMotion,Color=-1)@chance=20
+[24Jul2025 21:56:20.474] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=entity,ID=lucky:lucky_projectile,pos=#bowPos,NBTTag=(Motion=#bowMotion,item=(id=creeper_head),impact=["group(type=difficulty,ID=hard;type=entity,ID=creeper;type=entity,ID=lightning_bolt)"])@luck=2
+[24Jul2025 21:56:20.999] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=difficulty,ID=hard;type=entity,ID=creeper;type=entity,ID=lightning_bolt)
+[24Jul2025 21:56:23.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cast_23x was blown up by Creeper
+[24Jul2025 21:58:06.469] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=entity,ID=arrow,pos=#bowPos,NBTTag=(Motion=#bowMotion,Color=-1)@chance=20
+[24Jul2025 21:58:08.073] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=entity,ID=arrow,pos=#bowPos,NBTTag=(Motion=#bowMotion,Color=-1)@chance=20
+[24Jul2025 21:58:31.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cast_23x hit the ground too hard
+[24Jul2025 21:59:53.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cast_23x was slain by Redox_Lm using [Hero's Sword]
+[24Jul2025 22:00:12.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zanderga123: Set own game mode to Creative Mode]
+[24Jul2025 22:00:45.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zanderga123: Set own game mode to Survival Mode]
+[24Jul2025 22:00:54.098] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=effect,ID=weakness,range=4,duration=30;type=particle,ID=splashpotion,potion=weakness;type=difficulty,ID=hard;type=entity,ID=#randList(zombie,skeleton,spider),posOffset=#circleOffset(0.0,2.0),amount=#rand(7,10))@luck=-2
+[24Jul2025 22:01:10.298] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=item,ID=anvil;ID=enchanted_book,NBTTag=(StoredEnchantments=#randEnchantment),posOffset=#circleOffset(0.0,2.0),amount=#rand(7,10);type=particle,ID=splashpotion,potion=strength)@luck=2
+[24Jul2025 22:01:12.247] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: type=entity,ID=experience_bottle,NBTTag=(Motion=#motionFromDirection(#rand(0,360),-70,0.4)),amount=#rand(20,30)@luck=2
+[24Jul2025 22:01:13.952] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=effect,ID=strength,range=4,amplifier=1,duration=600;type=effect,ID=resistance,range=4,amplifier=1,duration=600;type=particle,ID=splashpotion,potion=strength;type=item,ID=iron_sword,posOffset=#circleOffset(0.0,2.0);type=item,ID=iron_helmet,posOffset=#circleOffset(0.0,2.0);type=item,ID=iron_chestplate,posOffset=#circleOffset(0.0,2.0);type=item,ID=iron_leggings,posOffset=#circleOffset(0.0,2.0);type=item,ID=iron_boots,posOffset=#circleOffset(0.0,2.0))@luck=2
+[24Jul2025 22:01:15.199] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=item,ID=anvil;ID=enchanted_book,NBTTag=(StoredEnchantments=#randEnchantment),posOffset=#circleOffset(0.0,2.0),amount=#rand(7,10);type=particle,ID=splashpotion,potion=strength)@luck=2
+[24Jul2025 22:01:16.399] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=item,ID=anvil;ID=enchanted_book,NBTTag=(StoredEnchantments=#randEnchantment),posOffset=#circleOffset(0.0,2.0),amount=#rand(7,10);type=particle,ID=splashpotion,potion=strength)@luck=2
+[24Jul2025 22:01:17.598] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=effect,ID=health_boost,range=4,amplifier=1,duration=600;type=effect,ID=absorption,range=4,amplifier=1,duration=600;type=particle,ID=splashpotion,potion=healing;type=entity,ID=horse,NBTTag=(OwnerUUID=#pUUID,ArmorItem=(id=golden_horse_armor,Count=1),SaddleItem=(id=saddle,Count=1)))@luck=2
+[24Jul2025 22:01:42.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoSs_StAloS was doomed to fall
+[24Jul2025 22:01:49.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zanderga123 withered away
+[24Jul2025 22:01:49.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redox_Lm withered away
+[24Jul2025 22:01:50.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cast_23x withered away
+[24Jul2025 22:01:56.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cast_23x has made the advancement [Suit Up]
+[24Jul2025 22:01:57.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cast_23x moved wrongly!
+[24Jul2025 22:02:12.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redox_Lm was slain by Cast_23x using [Hero's Trident]
+[24Jul2025 22:02:42.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cast_23x was doomed to fall by Redox_Lm
+[24Jul2025 22:02:51.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redox_Lm was doomed to fall by Cast_23x using [Hero's Trident]
+[24Jul2025 22:03:15.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zanderga123: Set own game mode to Creative Mode]
+[24Jul2025 22:03:19.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zanderga123: Set own game mode to Survival Mode]
+[24Jul2025 22:03:28.848] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=effect,ID=nausea,range=4,duration=10;type=effect,ID=hunger,range=3,amplifier=8,duration=10;type=particle,ID=splashpotion,potion=poison;type=difficulty,ID=hard;type=entity,ID=slime;type=particle,ID=item_slime,size=(1.5,0.5,1.5),particleAmount=500)@luck=-2
+[24Jul2025 22:03:30.998] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=effect,ID=nausea,range=4,duration=10;type=effect,ID=hunger,range=3,amplifier=8,duration=10;type=particle,ID=splashpotion,potion=poison;type=difficulty,ID=hard;type=entity,ID=slime;type=particle,ID=item_slime,size=(1.5,0.5,1.5),particleAmount=500)@luck=-2
+[24Jul2025 22:03:33.099] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=difficulty,ID=hard;type=explosion,damage=4;type=particle,ID=splashpotion,potion=harming)@luck=-2
+[24Jul2025 22:03:36.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redox_Lm was slain by Cast_23x using [Hero's Trident]
+[24Jul2025 22:03:51.598] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=effect,ID=poison,range=4,duration=30;type=particle,ID=splashpotion,potion=poison;type=difficulty,ID=hard;type=entity,ID=cave_spider;type=item,ID=#randList(rotten_flesh,spider_eye,fermented_spider_eye),posOffset=#circleOffset(0.0,2.0),amount=30)@luck=-2
+[24Jul2025 22:03:51.799] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=effect,ID=instant_damage,range=4;type=particle,ID=splashpotion,potion=harming;type=entity,ID=lucky:lucky_projectile,NBTTag=(Motion=#motionFromDirection(#rand(0,360),-50,0.4),item=(id=iron_sword),damage=4.0),amount=20)@luck=-2
+[24Jul2025 22:03:52.098] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=effect,ID=blindness,range=4,duration=10;type=effect,ID=slowness,range=4,duration=10;type=particle,ID=splashpotion,potion=slowness;type=particle,ID=large_smoke,size=(2.0,1.0,2.0),particleAmount=300,amount=30,delay=#rand(0.0,8.0))@luck=-2
+[24Jul2025 22:03:52.298] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=effect,ID=wither,range=4,duration=30;type=particle,ID=splashpotion,potion=weakness;type=item,ID=bone,posOffset=#circleOffset(0.0,2.0),amount=10;type=item,ID=bone_meal,posOffset=#circleOffset(0.0,2.0),amount=10;type=item,ID=skeleton_skull,posOffset=#circleOffset(0.0,2.0))@luck=-2
+[24Jul2025 22:03:52.548] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=effect,ID=nausea,range=4,duration=10;type=effect,ID=hunger,range=3,amplifier=8,duration=10;type=particle,ID=splashpotion,potion=poison;type=difficulty,ID=hard;type=entity,ID=slime;type=particle,ID=item_slime,size=(1.5,0.5,1.5),particleAmount=500)@luck=-2
+[24Jul2025 22:03:52.750] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=effect,ID=instant_damage,range=4;type=particle,ID=splashpotion,potion=harming;type=entity,ID=lucky:lucky_projectile,NBTTag=(Motion=#motionFromDirection(#rand(0,360),-50,0.4),item=(id=iron_sword),damage=4.0),amount=20)@luck=-2
