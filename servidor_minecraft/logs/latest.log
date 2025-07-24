@@ -1,66 +1,113 @@
-[24Jul2025 19:26:51.767] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[24Jul2025 19:26:51.781] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[24Jul2025 19:26:52.001] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[24Jul2025 19:26:52.115] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/jj-y-su-grupo/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[24Jul2025 19:26:52.553] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/jj-y-su-grupo/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[24Jul2025 19:26:52.556] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/jj-y-su-grupo/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[24Jul2025 19:26:52.558] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/jj-y-su-grupo/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[24Jul2025 19:26:52.566] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/jj-y-su-grupo/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[24Jul2025 19:26:52.834] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[24Jul2025 19:26:55.547] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[24Jul2025 19:27:06.555] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[24Jul2025 19:27:06.561] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[24Jul2025 19:27:08.701] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[24Jul2025 19:27:09.625] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[24Jul2025 19:27:10.745] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[24Jul2025 19:27:10.809] [main/WARN] [net.minecraftforge.common.ForgeHooks/WP]: The following mods have version differences that were not resolved:
-forge (version 47.1.47 -> 47.3.7)
-Things may not work well.
-[24Jul2025 19:27:11.990] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/jj-y-su-grupo/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23103!/assets/.mcassetsroot' uses unexpected schema
-[24Jul2025 19:27:11.990] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/jj-y-su-grupo/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23103!/data/.mcassetsroot' uses unexpected schema
-[24Jul2025 19:27:14.502] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[24Jul2025 19:27:14.718] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
-[24Jul2025 19:27:15.828] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[24Jul2025 19:27:15.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[24Jul2025 19:27:15.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[24Jul2025 19:27:15.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[24Jul2025 19:27:16.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[24Jul2025 19:27:16.203] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[24Jul2025 19:27:16.314] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[24Jul2025 19:27:16.315] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[24Jul2025 19:27:16.316] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[24Jul2025 19:27:16.316] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[24Jul2025 19:27:16.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[24Jul2025 19:27:16.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[24Jul2025 19:27:23.460] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jul2025 19:27:23.462] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jul2025 19:27:23.467] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jul2025 19:27:23.481] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jul2025 19:27:23.484] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jul2025 19:27:27.708] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jul2025 19:27:27.711] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jul2025 19:27:27.713] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jul2025 19:27:27.717] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jul2025 19:27:27.723] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jul2025 19:27:27.725] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jul2025 19:27:27.728] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jul2025 19:27:27.729] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jul2025 19:27:27.733] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jul2025 19:27:27.735] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jul2025 19:27:27.736] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jul2025 19:27:27.738] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jul2025 19:27:27.741] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jul2025 19:27:27.742] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jul2025 19:27:27.745] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jul2025 19:27:27.746] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jul2025 19:27:27.746] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jul2025 19:27:27.875] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jul2025 19:27:28.375] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jul2025 19:27:28.875] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24Jul2025 19:27:29.311] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 12437 ms
-[24Jul2025 19:27:29.313] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.971s)! For help, type "help"
-[24Jul2025 19:27:29.353] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[24Jul2025 19:29:19.300] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zanderga123[/127.204.116.168:42517] logged in with entity id 1 at (-4.5, 84.0, 232.5)
-[24Jul2025 19:29:19.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zanderga123 joined the game
-[24Jul2025 19:29:36.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zanderga123: Set own game mode to Creative Mode]
-[24Jul2025 19:42:25.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zanderga123: Set own game mode to Survival Mode]
+[24Jul2025 21:13:46.329] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[24Jul2025 21:13:46.334] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[24Jul2025 21:13:46.520] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[24Jul2025 21:13:46.626] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/jj-y-su-grupo/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[24Jul2025 21:13:47.092] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/jj-y-su-grupo/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[24Jul2025 21:13:47.096] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/jj-y-su-grupo/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[24Jul2025 21:13:47.098] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/jj-y-su-grupo/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[24Jul2025 21:13:47.106] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/jj-y-su-grupo/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[24Jul2025 21:13:47.448] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[24Jul2025 21:13:50.149] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[24Jul2025 21:14:01.170] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[24Jul2025 21:14:01.181] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[24Jul2025 21:14:03.881] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[24Jul2025 21:14:04.849] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[24Jul2025 21:14:05.787] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[24Jul2025 21:14:06.996] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/jj-y-su-grupo/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23103!/assets/.mcassetsroot' uses unexpected schema
+[24Jul2025 21:14:06.998] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/jj-y-su-grupo/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23103!/data/.mcassetsroot' uses unexpected schema
+[24Jul2025 21:14:09.818] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[24Jul2025 21:14:10.060] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
+[24Jul2025 21:14:10.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[24Jul2025 21:14:10.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[24Jul2025 21:14:10.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[24Jul2025 21:14:10.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[24Jul2025 21:14:10.833] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[24Jul2025 21:14:10.887] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[24Jul2025 21:14:10.997] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[24Jul2025 21:14:10.997] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[24Jul2025 21:14:10.998] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[24Jul2025 21:14:10.998] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[24Jul2025 21:14:11.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[24Jul2025 21:14:11.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[24Jul2025 21:14:15.700] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Jul2025 21:14:17.378] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Jul2025 21:14:18.266] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jul2025 21:14:18.270] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jul2025 21:14:18.272] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jul2025 21:14:18.294] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jul2025 21:14:18.298] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jul2025 21:14:18.301] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jul2025 21:14:18.307] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jul2025 21:14:18.309] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jul2025 21:14:18.313] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jul2025 21:14:18.317] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jul2025 21:14:18.317] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jul2025 21:14:18.319] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jul2025 21:14:18.320] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jul2025 21:14:18.322] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jul2025 21:14:18.519] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jul2025 21:14:19.667] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Jul2025 21:14:23.748] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jul2025 21:14:23.749] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jul2025 21:14:23.749] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jul2025 21:14:23.750] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jul2025 21:14:23.751] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jul2025 21:14:23.753] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jul2025 21:14:23.754] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jul2025 21:14:23.758] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jul2025 21:14:23.760] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jul2025 21:14:23.760] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jul2025 21:14:24.020] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jul2025 21:14:24.553] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Jul2025 21:14:24.709] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[24Jul2025 21:14:25.068] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 13549 ms
+[24Jul2025 21:14:25.068] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.046s)! For help, type "help"
+[24Jul2025 21:14:25.141] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[24Jul2025 21:14:32.403] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cast_23x[/127.244.148.146:55109] logged in with entity id 7 at (-4.5, 82.0, 240.5)
+[24Jul2025 21:14:32.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cast_23x joined the game
+[24Jul2025 21:14:48.677] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zanderga123[/127.204.116.168:50811] logged in with entity id 8 at (-60.04085504868615, 80.1212968405392, 228.17177976739052)
+[24Jul2025 21:14:48.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zanderga123 joined the game
+[24Jul2025 21:15:07.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zanderga123: Set own game mode to Creative Mode]
+[24Jul2025 21:15:15.267] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@270472a4[id=<null>,name=JoSs_StAloS,properties={},legacy=false] (/127.238.10.198:34135) lost connection: Disconnected
+[24Jul2025 21:15:35.446] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6ba61a1e[id=<null>,name=JoSs_StAloS,properties={},legacy=false] (/127.238.10.198:50763) lost connection: Disconnected
+[24Jul2025 21:16:52.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zanderga123: Set own game mode to Survival Mode]
+[24Jul2025 21:18:23.952] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JoSs_StAloS[/127.238.10.198:43777] logged in with entity id 11 at (-4.5, 83.0, 227.5)
+[24Jul2025 21:18:23.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoSs_StAloS joined the game
+[24Jul2025 21:18:26.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zanderga123: Set own game mode to Creative Mode]
+[24Jul2025 21:18:56.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zanderga123: Set own game mode to Survival Mode]
+[24Jul2025 21:20:12.246] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@177f27b5[id=<null>,name=Redox_Lm,properties={},legacy=false] (/127.251.178.31:45811) lost connection: Disconnected
+[24Jul2025 21:21:05.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zanderga123: Set spawn point to -59, 80, 233 [0.0] in minecraft:overworld for 3 players]
+[24Jul2025 21:21:08.396] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@65b9396d[id=<null>,name=Redox_Lm,properties={},legacy=false] (/127.251.178.31:36525) lost connection: Disconnected
+[24Jul2025 21:21:53.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cast_23x was kicked for floating too long!
+[24Jul2025 21:21:53.297] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cast_23x lost connection: Flying is not enabled on this server
+[24Jul2025 21:21:53.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cast_23x left the game
+[24Jul2025 21:22:03.645] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@54e79c7a[id=<null>,name=Cast_23x,properties={},legacy=false] (/127.244.148.146:44057) lost connection: Disconnected
+[24Jul2025 21:22:09.552] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cast_23x[/127.244.148.146:33651] logged in with entity id 31 at (-150.00296009415203, -116.81667850986477, 219.8137706093523)
+[24Jul2025 21:22:09.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cast_23x joined the game
+[24Jul2025 21:22:13.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cast_23x fell out of the world
+[24Jul2025 21:22:16.053] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Redox_Lm[/127.251.178.31:58343] logged in with entity id 33 at (-4.5, 82.0, 226.5)
+[24Jul2025 21:22:16.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redox_Lm joined the game
+[24Jul2025 21:22:26.146] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redox_Lm was kicked for floating too long!
+[24Jul2025 21:22:26.198] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Redox_Lm lost connection: Flying is not enabled on this server
+[24Jul2025 21:22:26.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redox_Lm left the game
+[24Jul2025 21:22:32.651] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Redox_Lm[/127.251.178.31:36425] logged in with entity id 37 at (-4.5, -90.39438669269654, 225.0237213380167)
+[24Jul2025 21:22:32.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redox_Lm joined the game
+[24Jul2025 21:22:37.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redox_Lm fell out of the world
+[24Jul2025 21:22:44.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zanderga123: Teleported Redox_Lm to zanderga123]
+[24Jul2025 21:22:55.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zanderga123: Set spawn point to -61, 80, 233 [0.0] in minecraft:overworld for 4 players]
+[24Jul2025 21:23:00.301] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(ID=bookshelf,amount=#rand(6,12);ID=book,amount=#rand(8,16))@luck=0
+[24Jul2025 21:23:01.925] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(type=fill,ID=air,size=(1,51,1);group(NBTTag=(BlockState=(Name=red_glazed_terracotta)),posY=#bPosY+5;NBTTag=(BlockState=(Name=orange_glazed_terracotta)),posY=#bPosY+10;NBTTag=(BlockState=(Name=yellow_glazed_terracotta)),posY=#bPosY+15;NBTTag=(BlockState=(Name=lime_glazed_terracotta)),posY=#bPosY+20;NBTTag=(BlockState=(Name=light_blue_glazed_terracotta)),posY=#bPosY+25;NBTTag=(BlockState=(Name=blue_glazed_terracotta)),posY=#bPosY+30;NBTTag=(BlockState=(Name=purple_glazed_terracotta)),posY=#bPosY+35;NBTTag=(BlockState=(Name=magenta_glazed_terracotta)),posY=#bPosY+40;NBTTag=(BlockState=(Name=pink_glazed_terracotta)),posY=#bPosY+45),type=entity,ID=falling_block;type=entity,ID=falling_block,NBTTag=(BlockState=(Name=diamond_block)),posY=#bPosY+50;type=entity,ID=lightning_bolt,posY=#bPosY+10,delay=5.3)@luck=2
+[24Jul2025 21:23:01.953] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(ID=stone_sword;ID=stone_shovel;ID=stone_pickaxe;ID=stone_axe;ID=stone_hoe)@luck=0
+[24Jul2025 21:23:02.032] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group:1:(type=entity,ID=slime,NBTTag=(Size=10);type=entity,ID=magma_cube,NBTTag=(Size=10))@luck=-2
+[24Jul2025 21:23:02.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cast_23x has made the advancement [Getting an Upgrade]
+[24Jul2025 21:23:07.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoSs_StAloS was slain by Slime
+[24Jul2025 21:23:07.854] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: ID=painting,amount=4@luck=0
+[24Jul2025 21:23:09.818] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group:1:(group(ID=porkchop,amount=#rand(8,16);ID=cooked_porkchop,amount=#rand(4,8));group(ID=salmon,amount=#rand(8,16);ID=cooked_salmon,amount=#rand(4,8));group(ID=beef,amount=#rand(8,16);ID=cooked_beef,amount=#rand(4,8));group(ID=chicken,amount=#rand(8,16);ID=cooked_chicken,amount=#rand(4,8));group(ID=mutton,amount=#rand(8,16);ID=cooked_mutton,amount=#rand(4,8));group(ID=rabbit,amount=#rand(8,16);ID=cooked_rabbit,amount=#rand(4,8)))@luck=1
+[24Jul2025 21:23:10.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zanderga123 was slain by Slime
+[24Jul2025 21:23:14.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cast_23x was slain by Slime
+[24Jul2025 21:23:16.013] [Server thread/INFO] [mod.lucky.forge.ForgeLuckyRegistry/]: Chosen Lucky Drop: group(ID=stone_sword;ID=stone_shovel;ID=stone_pickaxe;ID=stone_axe;ID=stone_hoe)@luck=0
+[24Jul2025 21:23:17.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redox_Lm has made the advancement [Getting an Upgrade]
+[24Jul2025 21:23:18.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cast_23x has made the advancement [Monster Hunter]
+[24Jul2025 21:23:22.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zanderga123 was slain by Slime
+[24Jul2025 21:23:25.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Redox_Lm has made the advancement [Monster Hunter]
+[24Jul2025 21:23:34.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JoSs_StAloS has made the advancement [Monster Hunter]
