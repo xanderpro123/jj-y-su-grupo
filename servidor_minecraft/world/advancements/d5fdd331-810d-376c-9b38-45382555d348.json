@@ -50,6 +50,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-24 21:29:34 +0000",
+      "minecraft:spider": "2025-07-24 21:45:14 +0000",
       "minecraft:creeper": "2025-07-24 21:34:47 +0000",
       "minecraft:slime": "2025-07-24 21:23:25 +0000"
     },
@@ -428,6 +429,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-07-24 21:42:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2025-07-24 21:34:39 +0000"
@@ -443,6 +450,12 @@
   "minecraft:nether/create_beacon": {
     "criteria": {
       "beacon": "2025-07-24 21:35:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-07-24 21:47:54 +0000"
     },
     "done": true
   },
@@ -482,15 +495,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-07-24 21:42:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-07-24 21:37:00 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-07-24 21:42:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-07-24 21:35:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-07-24 21:43:01 +0000"
     },
     "done": true
   },
@@ -521,6 +552,12 @@
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-07-24 21:37:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-07-24 21:46:30 +0000"
     },
     "done": true
   },
@@ -593,6 +630,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-07-24 21:34:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-07-24 21:43:01 +0000"
     },
     "done": true
   },
