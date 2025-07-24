@@ -647,3 +647,8 @@ Things may not work well.
 [24Jul2025 19:29:36.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zanderga123: Set own game mode to Creative Mode]
 [24Jul2025 19:32:29.351] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Lucky Block Race 2
 [24Jul2025 19:32:29.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Lucky Block Race 2
+[24Jul2025 19:37:29.312] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Lucky Block Race 2
+[24Jul2025 19:37:29.341] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Lucky Block Race 2
+[24Jul2025 19:42:25.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zanderga123: Set own game mode to Survival Mode]
+[24Jul2025 19:42:29.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Lucky Block Race 2
+[24Jul2025 19:42:29.320] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Lucky Block Race 2
